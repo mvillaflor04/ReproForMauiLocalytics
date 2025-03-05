@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ANSDictionary_002Eg_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F9937841fb6ba681f30d633d43e2e9f5047b66b1db68817520ba5ffd2a7f45ba_003FNSDictionary_002Eg_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/markv/.nuget/packages/localyticsmaui/1.1.5/lib/net7.0-ios16.1/LocalyticsMaui.iOS.dll" /&gt;
+  &lt;Assembly Path="/Users/markv/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=cd044a4e_002D6373_002D55dd_002Daf52_002D818a820b198a_0023ReproForMauiLocalytics_002EDroid/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

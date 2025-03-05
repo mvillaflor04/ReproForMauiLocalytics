@@ -1,0 +1,13 @@
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/bin/Debug/net9.0/ReproForMauiLocalytics.deps.json
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/bin/Debug/net9.0/ReproForMauiLocalytics.dll
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/bin/Debug/net9.0/ReproForMauiLocalytics.pdb
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/ReproForMauiLocalytics.csproj.AssemblyReference.cache
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/ReproForMauiLocalytics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/ReproForMauiLocalytics.AssemblyInfoInputs.cache
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/ReproForMauiLocalytics.AssemblyInfo.cs
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/ReproForMauiLocalytics.csproj.CoreCompileInputs.cache
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/XamlC.stamp
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/ReproForMauiLocalytics.dll
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/refint/ReproForMauiLocalytics.dll
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/ReproForMauiLocalytics.pdb
+/Users/markv/Projects/ReproForMauiLocalytics/ReproForMauiLocalytics/obj/Debug/net9.0/ref/ReproForMauiLocalytics.dll
