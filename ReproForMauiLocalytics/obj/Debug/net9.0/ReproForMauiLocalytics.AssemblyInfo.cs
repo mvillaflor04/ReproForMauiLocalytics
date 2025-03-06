@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReproForMauiLocalytics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ef9fa3c5ff94cd3d8db1fc46b3ef312e057c84b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a72d1eb0050524f2cffcd985d70c91b82bda518b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReproForMauiLocalytics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReproForMauiLocalytics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
